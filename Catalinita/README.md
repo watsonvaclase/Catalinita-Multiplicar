@@ -3,6 +3,7 @@ Te presento a Catalinita: una niña muy lista y muy guapa a la que le encanta ju
 
 ![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
 <br>
+<img src="Catalinita/Catalinita.png" id="img13"> <br> <br>
 
 ## Catalinita te ayuda a probar la capacidad de hablar de tu TJBot
 Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.
