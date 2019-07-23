@@ -1,6 +1,6 @@
 
 
-# Catalinita y las tablas de multiplicar
+## Catalinita y las tablas de multiplicar
 
 ![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
 <br>
@@ -11,7 +11,7 @@ Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir
 
 [![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_video.png)](https://ibm.ent.box.com/file/464860317152)
 
-#### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js_
+### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js_
 Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:
 
 1) Descargar el programa ![Catalinita_tablas_de_multiplicar.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_tablas_de_multiplicar.js) a la raspberrypi.
@@ -21,7 +21,7 @@ Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo
 3) Ejecutar: <br>
 _sudo node Catalinita\_tablas\_de\_multiplicar.js_
 
-#### Usar el programa _Catalinita\_tablas\_de\_multiplicar.js_
+### Usar el programa _Catalinita\_tablas\_de\_multiplicar.js_
 Puedes interactuar con Catalinita haciéndole alguna de las siguientes preguntas:
 
 1) _Dime la tabla del trece_. (En vez de trece, le puedes decir cualquier número del 0 al 20.) 
