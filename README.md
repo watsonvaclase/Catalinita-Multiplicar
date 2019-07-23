@@ -3,14 +3,14 @@
 ## Catalinita y las tablas de multiplicar
 
 ![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
-<img src="files/Catalinita.png" id=""> <br> <br>
+<img src="github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png" id=""> <br> <br>
 <br>
 
 Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar para que tú se las digas a ella, a ver si tú también te las sabes.
 
 ¡No dejes de ver el vídeo para conocerla en acción!
 
-[![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_video.png)](https://ibm.ent.box.com/file/464860317152)
+[![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_video.png)](https://youtu.be/Bt_0hJaireo)
 
 ### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js_
 Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:
