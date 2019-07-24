@@ -35,7 +35,7 @@ sudo node Catalinita\_tablas\_de\_multiplicar.js</div>
 <br>
 <div id="texto11">4) "¿Pregúntame la tabla del ocho?" (En vez de ocho, le puedes decir cualquier número del 0 al 20.)</div>
 <br>
-<div id="texto12">5) "Otra vez" (En caso de que le hayas pedido que te pregunte ella, para pedirle que te vuelva a preguntar con las mismas condiciones, puedes repetirle la pregunta o decirle simplemente _otra vez_.)</div>
+<div id="texto12">5) "Otra vez" (En caso de que le hayas pedido que te pregunte ella, para pedirle que te vuelva a preguntar con las mismas condiciones, puedes repetirle la pregunta o decirle simplemente "otra vez".)</div>
 <br>
 
 
