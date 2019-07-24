@@ -25,7 +25,7 @@ sudo node Catalinita\_tablas\_de\_multiplicar.js</div>
 <div id="texto7">Puedes interactuar con Catalinita haciéndole alguna de las siguientes preguntas:</div><br>
 
 <div id="texto8">1) "Dime la tabla del trece" (En vez de trece, le puedes decir cualquier número del 0 al 20.) </div>
-<br>
+
 <div id="texto9">2) "¿Cuánto es nueve por siete?" (En vez de nueve y siete, le puedes decir cualesquieras dos números entre el 0 y el 20.)</div>
 
 <div id="texto10">3) "¿Pregúntame todas las tablas?" (Y te preguntará aleatoriamente la multiplicaciónun de dos números entre el 2 y el 10.)</div>
