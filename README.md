@@ -17,7 +17,7 @@
 
 <div id="texto3">Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:</div>
 <br>
-<div id="texto4">1) Descargar el programa <a href=https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_tablas_de_multiplicar.js">Catalinita_tablas_de_multiplicar.js</a></div><div id="texto11"> a la raspberrypi.</div>
+<div id="texto4">1) Descargar el programa <a href=https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_tablas_de_multiplicar.js">Catalinita_tablas_de_multiplicar.js</a> a la raspberrypi.</div>
 <br>
 <div id="texto5">2) Ubicar el fichero descargado (_Catalinita\_tablas\_de\_multiplicar.js_) en el directorio donde ya estés ejecutando satisfactoriamente el programa _conversation.js_ del TJBot o _Catalinita\_lorito.js_.</div>
 <br>
