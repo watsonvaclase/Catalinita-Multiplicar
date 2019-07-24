@@ -3,7 +3,9 @@
 ## Catalinita y las tablas de multiplicar
 
 
-<img src="catalinita/catalinita.png" id="catalinita"> <br> <br>
+![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
+<img src="github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png" id=""> <br> <br>
+<br>
 Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar para que tú se las digas a ella, a ver si tú también te las sabes.
 
 ¡No dejes de ver el vídeo para conocerla en acción!
