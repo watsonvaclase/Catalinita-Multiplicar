@@ -11,6 +11,7 @@
 <br>
 <br>
 <br>
+
 ### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js
 <div id="texto3">Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:</div>
 <br>
@@ -22,6 +23,7 @@
 sudo node Catalinita\_tablas\_de\_multiplicar.js</div>
 <br>
 <br>
+
 ### Usar el programa _Catalinita\_tablas\_de\_multiplicar.js
 <div id="texto7">Puedes interactuar con Catalinita haciéndole alguna de las siguientes preguntas:</div>
 <br>
