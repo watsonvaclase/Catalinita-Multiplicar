@@ -17,9 +17,10 @@
 <div id="texto5">2) Ubicar el fichero descargado (Catalinita\_tablas\_de\_multiplicar.js) en el directorio donde ya estés ejecutando satisfactoriamente el programa conversation.js del TJBot o Catalinita\_lorito.js.</div>
 
 <div id="texto6">3) Ejecutar: <br></div>
-> sudo node Catalinita\_tablas\_de\_multiplicar.js
-<br>
 
+> sudo node Catalinita\_tablas\_de\_multiplicar.js
+
+<br>
 
 ### Usar el programa _Catalinita\_tablas\_de\_multiplicar.js
 <div id="texto7">Puedes interactuar con Catalinita haciéndole alguna de las siguientes preguntas:</div><br>
