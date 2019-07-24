@@ -6,7 +6,7 @@
 <img id="img1" src="Catalinita/Catalinita.png"> <br> <br>
 
 
-<img src="github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png" id=""> <br> <br>
+<br>
 <br>
 <div id="texto1">Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar para que tú se las digas a ella, a ver si tú también te las sabes.</div>
 <br>
