@@ -6,7 +6,7 @@
 <img id="img1" src="files/img/Catalinita_tablas_de_multiplicar_pelicula.png"  > <br>
 <div id="texto1">Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar para que tú se las digas a ella, a ver si tú también te las sabes.</div><br>
 <div id="texto2">¡No dejes de ver el vídeo para conocerla en acción!</div>
-<a href="https://youtu.be/Bt_0hJaireo"> https://youtu.be/Bt_0hJaireo</a>
+<a href="https://youtu.be/Bt_0hJaireo"></a>
 <br>
 
 
